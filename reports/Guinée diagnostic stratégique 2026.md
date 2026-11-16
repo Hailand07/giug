@@ -1320,6 +1320,12 @@ Analyse : notes reprises de la section 4. **Score = Impact × Faisabilité** (ma
 | D2 | Cadre légal limitant les coupures d'Internet | 3 | 2 | 6 | Politiquement difficile à court terme |
 | T7 | Emprunt obligataire diaspora | 2 | 2 | 4 | Transferts modestes (2,46 % du PIB) ; la formalisation numérique passe avant |
 
+Les 21 autres positions de la section 4 se classent ainsi, selon la même règle :
+
+- **Projets majeurs (score 12)** : A2, C3, D5, E4, G2, H2, H3, M1, M6, S6, U6, W2, W3, W5.
+- **À faire si possible (score 12)** : A8, C5, G7, H8, T6, W7.
+- **À reporter (score 9)** : N7 (cuisson propre, qui dépend du prix de l'électricité et du gaz).
+
 ### 6.5 Mesures à ne pas reproduire
 
 Analyse : leçons tirées des bilans de la section 2, sans notation.
